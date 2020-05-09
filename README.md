@@ -13,3 +13,5 @@ The model was trained from scratch for word embeddings; further propogated to RN
 2. Using Tansfer Learning with Google BERT weights:
 The model was trained using pre-trained Google BERT word embeddings giving better results with
 83% train accuracy and 74% validation accuracy.
+
+Results can probably be futher improved by removing stopwords and then feeding it to Google BERT architecture.
