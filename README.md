@@ -1,8 +1,8 @@
 # Multi-Class-Text-Classification-Wines-NLP
 Multiclass text classification using two models : Keras Custom Embeddings and Google BERT
 
-Change the file_paths according to your directory.
-Code can be un directly in google colab.
+Change the file paths according to your directory.
+Code can be run directly in google colab.
 
 
 Two models have been tested:
