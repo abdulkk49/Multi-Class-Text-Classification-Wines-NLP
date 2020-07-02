@@ -4,9 +4,9 @@ Multiclass text classification using two models : Keras Custom Embeddings and Go
 Change the file paths according to your directory.
 Code can be run directly in google colab.
 
-### The file test_var.csv stores the final predicted results.
-### The files country_extract.csv and vintage_extract.csv give some insights and data distributions. 
-### The images also reflect some information ragarding wines.
+###### The file test_var.csv stores the final predicted results.
+###### The files country_extract.csv and vintage_extract.csv give some insights and data distributions. 
+###### The images also reflect some information ragarding wines.
 
 Two models have been tested:
 #### 1. Using Keras' Custom Embedding Layer:
